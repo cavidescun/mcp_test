@@ -1,6 +1,6 @@
 {
   "chat.mcp.serverSampling": {
-    "miduconf-mcp/.vscode/mcp.json: mcp-tools": {
+    "mcp_test/.vscode/mcp.json: test-mcp": {
       "allowedModels": [
         "copilot/gpt-4.1",
         "copilot/claude-opus-41",
